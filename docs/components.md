@@ -124,7 +124,7 @@ This is ==highlighted text== using `pymdownx.mark`.
 
 ## 🎹 Keyboard Keys
 
-Press ++ctrl+shift+p++ to open the command palette.
+Press ++ctrl+shift+p++ to open the command palette. 
 
 ---
 
