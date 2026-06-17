@@ -156,13 +156,3 @@ Press ++ctrl+shift+p++ to open the command palette.
 
 ---
 
-## 🧪 Combined Example
-
-!!! note
-    Here is a combined example with **math**, a tooltip, and a footnote.[^2]
-
-    Inline math: \( e^{i\pi} + 1 = 0 \)
-
-    Tooltip: [Hover me](https://example.com "Tooltip text")
-
-[^2]: Footnote inside an admonition.

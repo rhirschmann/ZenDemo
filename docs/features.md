@@ -47,3 +47,4 @@ You can switch themes in your `zensical.toml`:
 ```toml
 [project.theme]
 variant = "classic"
+```
