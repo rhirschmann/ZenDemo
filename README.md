@@ -2,6 +2,7 @@
 
 A clean demonstration site built using **Zensical**, a modern static site generator for beautiful documentation.
 
+[![Live Site](https://img.shields.io/badge/Live%20Site-Online-brightgreen)](https://rhirschmann.github.io/ZenDemo/)
 ![License](https://img.shields.io/github/license/rhirschmann/ZenDemo)
 ![Last Commit](https://img.shields.io/github/last-commit/rhirschmann/ZenDemo)
 ![Repo Size](https://img.shields.io/github/repo-size/rhirschmann/ZenDemo)
@@ -10,9 +11,10 @@ A clean demonstration site built using **Zensical**, a modern static site genera
 
 ---
 
-## 🚀 About This Project
+## 🌐 Live Demo
 
-This repository contains a demo documentation site generated with:
+Your site is available here:
 
-```bash
-zensical new ZenDemo
+👉 **https://rhirschmann.github.io/ZenDemo/**
+
+---
