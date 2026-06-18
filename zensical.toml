@@ -1,15 +1,19 @@
 [project]
 site_name = "Zensical Demo"
 site_description = "A demonstration site built with Zensical"
-site_author = "Ruud H."
+site_author = "Ruud Hirschmann"
 copyright = """
-Copyright © 2026 Ruud
+Copyright © 2026 Ruud Hirschmann
 """
 
+[project.theme]
+variant = "classic"
+
+
 # Optional explicit navigation
-nav = [
-  { "Home" = "index.md" },
-  { "Getting Started" = "getting-started.md" },
-  { "Features" = "features.md" },
-  { "Demo Components" = "components.md" }
-]
+#nav = [
+#  { "Home" = "index.md" },
+#  { "Getting Started" = "getting-started.md" },
+#  { "Features" = "features.md" },
+#  { "Demo Components" = "components.md" }
+#]
