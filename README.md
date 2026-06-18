@@ -57,9 +57,9 @@ ZenDemo/
 │   ├── getting-started/     # Setup guides
 │   └── index.md             # Home page
 ├── site/                    # Generated static site
-├── CONTRIBUTING.md          # Contribution guidelines
-├── CODE_OF_CONDUCT.md       # Community standards
 ├── CHANGELOG.md             # Version history
+├── code-of-conduct.md       # Community standards
+├── contributing.md         # Contribution guidelines
 ├── README.md                # This file
 └── zensical.toml            # Zensical configuration
 ```
@@ -88,13 +88,14 @@ ZenDemo/
 
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Contributions are welcome! Please see [contributing.md](contributing.md) for guidelines.
 
 ## Community
 
 - 💬 [Discussions](https://github.com/rhirschmann/ZenDemo/discussions)
 - 🐛 [Issues](https://github.com/rhirschmann/ZenDemo/issues)
-- 📝 [Code of Conduct](CODE_OF_CONDUCT.md)
+- 📝 [Code of Conduct](code-of-conduct.md)
+- 📜 [Changelog](CHANGELOG.md)
 
 ## Deployment
 

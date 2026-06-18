@@ -16,11 +16,8 @@ nav = [
 	{ "Getting started" = "getting-started/index.md" },
 	{ "Features" = "features/index.md" },
 	{ "About" = [
-			{ "Overview" = "about/index.md" },
-			{ "Code of Conduct" = "about/code-of-conduct.md" },
-			{ "Contributing to Zensical Demo" = "about/CONTRIBUTING.md" }
-		] },
-	{ "Changelog" = "about/changelog.md" }
+			{ "Overview" = "about/index.md" }
+		] }
 ]
 
 [project.markdown]
