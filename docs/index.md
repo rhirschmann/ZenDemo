@@ -16,7 +16,7 @@ Zensical gives you:
 
 ## Quick links
 
-- [Getting Started](getting-started/index.md) — Setup and local development
+- [Getting Started](getting-started/) — Setup and local development
 - [Deployment Guide](getting-started/deployment.md) — Deploy to GitHub Pages
 - [Features Overview](features/index.md) — Zensical capabilities
 - [Markdown Examples](features/markdown.md) — Markdown syntax guide
