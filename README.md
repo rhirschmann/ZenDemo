@@ -10,4 +10,3 @@ A clean demonstration site built using **Zensical**, a modern static site genera
 ![Issues](https://img.shields.io/github/issues/rhirschmann/ZenDemo)
 ![Stars](https://img.shields.io/github/stars/rhirschmann/ZenDemo)
 
-

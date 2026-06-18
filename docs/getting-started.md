@@ -6,3 +6,4 @@ This guide helps you run and build your Zensical site.
 
 ```bash
 zensical serve
+```
