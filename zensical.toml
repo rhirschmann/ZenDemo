@@ -12,10 +12,15 @@ variant = "classic"
 
 # Optional explicit navigation
 nav = [
-	{ "Home" = "index.md" },
-	{ "Getting Started" = "getting-started/index.md" },
+	{ "Welcome" = "index.md" },
+	{ "Getting started" = "getting-started/index.md" },
 	{ "Features" = "features/index.md" },
-	{ "Component Showcase" = "features/components.md" }
+	{ "About" = [
+			{ "Overview" = "about/index.md" },
+			{ "Code of Conduct" = "code-of-conduct.md" },
+			{ "Contributing to Zensical Demo" = "contributing.md" }
+		] },
+	{ "Changelog" = "changelog.md" }
 ]
 
 [project.markdown]
