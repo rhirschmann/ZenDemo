@@ -2,3 +2,8 @@
 site/
 __pycache__/
 *.log
+.cache/
+.DS_Store
+*.egg-info/
+dist/
+build/

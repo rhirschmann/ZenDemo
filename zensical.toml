@@ -17,3 +17,20 @@ variant = "classic"
 #  { "Features" = "features.md" },
 #  { "Demo Components" = "components.md" }
 #]
+
+[project.markdown]
+# Enable Markdown extensions
+extensions = [
+	"admonition",
+	"footnotes",
+	"tables",
+	"codehilite",
+	"toc",
+]
+
+[project.navigation]
+# Enable navigation features
+instant = true
+instant.prefetch = true
+path = true
+footer = true
