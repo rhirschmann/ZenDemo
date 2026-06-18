@@ -30,7 +30,10 @@ extensions = [
 
 [project.navigation]
 # Enable navigation features
-instant = true
-instant.prefetch = true
 path = true
 footer = true
+
+[project.navigation.instant]
+# Instant navigation settings
+enabled = true
+prefetch = true
