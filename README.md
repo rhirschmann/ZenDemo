@@ -3,7 +3,7 @@
 A clean demonstration site built using **Zensical**, a modern static site generator for beautiful documentation.
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Online-brightgreen)](https://rhirschmann.github.io/ZenDemo/)
-![Version](https://img.shields.io/badge/version-0.1.0-blue)
+![Version](https://img.shields.io/badge/version-0.2.0-blue)
 ![License](https://img.shields.io/github/license/rhirschmann/ZenDemo)
 ![Last Commit](https://img.shields.io/github/last-commit/rhirschmann/ZenDemo)
 ![Repo Size](https://img.shields.io/github/repo-size/rhirschmann/ZenDemo)
@@ -43,7 +43,7 @@ A clean demonstration site built using **Zensical**, a modern static site genera
 	zensical build --clean
 	```
 
-## Project Structure
+## Project Structure (high level)
 
 ```
 ZenDemo/
@@ -57,9 +57,6 @@ ZenDemo/
 │   ├── getting-started/     # Setup guides
 │   └── index.md             # Home page
 ├── site/                    # Generated static site
-├── CHANGELOG.md             # Version history
-├── code-of-conduct.md       # Community standards
-├── contributing.md         # Contribution guidelines
 ├── README.md                # This file
 └── zensical.toml            # Zensical configuration
 ```
@@ -88,7 +85,7 @@ ZenDemo/
 
 ## Contributing
 
-Contributions are welcome! Please see [contributing.md](contributing.md) for guidelines.
+Contributions are welcome! Please see [contributing.md](docs/about/contributing.md) for guidelines.
 
 ## Community
 
