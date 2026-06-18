@@ -20,7 +20,7 @@ nav = [
 			{ "Code of Conduct" = "code-of-conduct.md" },
 			{ "Contributing to Zensical Demo" = "contributing.md" }
 		] },
-	{ "Changelog" = "changelog.md" }
+	{ "Changelog" = "about/changelog.md" }
 ]
 
 [project.markdown]
