@@ -95,7 +95,7 @@ Add: Getting started guide for local development
 
 ## Code of Conduct
 
-This project adheres to a [Code of Conduct](code-of-conduct.md). By participating, you're expected to uphold this code.
+This project adheres to a [Code of Conduct](about/CODE_OF_CONDUCT.md). By participating, you're expected to uphold this code.
 
 ## Questions or Issues?
 
