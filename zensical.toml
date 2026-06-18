@@ -6,19 +6,28 @@ copyright = """
 Copyright © 2026 Ruud Hirschmann
 """
 
-[project.theme]
-variant = "classic"
-
-
 # Optional explicit navigation
 nav = [
 	{ "Welcome" = "index.md" },
-	{ "Getting started" = "getting-started/index.md" },
-	{ "Features" = "features/index.md" },
+	{ "Getting started" = [
+			{ "Overview" = "getting-started/index.md" },
+			{ "Deployment" = "getting-started/deployment.md" }
+		] },
+	{ "Features" = [
+			{ "Overview" = "features/index.md" },
+			{ "Components" = "features/components.md" },
+			{ "Markdown" = "features/markdown.md" }
+		] },
 	{ "About" = [
-			{ "Overview" = "about/index.md" }
+			{ "Overview" = "about/index.md" },
+			{ "Code of Conduct" = "about/code-of-conduct.md" },
+			{ "Contributing" = "about/contributing.md" },
+			{ "Changelog" = "about/changelog.md" }
 		] }
 ]
+
+[project.theme]
+variant = "classic"
 
 [project.markdown]
 # Enable Markdown extensions
