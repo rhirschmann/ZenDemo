@@ -88,13 +88,13 @@ ZenDemo/
 
 ## Contributing
 
-Contributions are welcome! Please see [CONTRIBUTING.md](docs/contributing.md) for guidelines.
+Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## Community
 
 - 💬 [Discussions](https://github.com/rhirschmann/ZenDemo/discussions)
 - 🐛 [Issues](https://github.com/rhirschmann/ZenDemo/issues)
-- 📝 [Code of Conduct](code-of-conduct.md)
+- 📝 [Code of Conduct](CODE_OF_CONDUCT.md)
 
 ## Deployment
 
