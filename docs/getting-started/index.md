@@ -28,13 +28,13 @@ python -m venv .venv
 === "Windows (PowerShell)"
 
     ```powershell
-    .venv\Scripts\Activate.ps1
+    .venv\\Scripts\\Activate.ps1
     ```
 
 === "Windows (Command Prompt)"
 
     ```cmd
-    .venv\Scripts\activate.bat
+    .venv\\Scripts\\activate.bat
     ```
 
 === "macOS / Linux"
@@ -83,32 +83,6 @@ Deployments trigger automatically on:
 - Manual workflow dispatch from GitHub
 
 See [Deployment Guide](deployment.md) for detailed instructions.
-
-## Troubleshooting
-
-### Python not found
-
-If you see `command not found: python`, you may need to use `python3` instead:
-
-```bash
-python3 -m venv .venv
-```
-
-### Virtual environment won't activate
-
-Ensure you're in the project directory and that the path is correct for your OS.
-
-### Port 8000 already in use
-
-The development server will automatically use the next available port. Check the console output for the actual URL.
-
-### Build fails
-
-Try cleaning the cache:
-
-```bash
-zensical build --clean
-```
 
 ---
 

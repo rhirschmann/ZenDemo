@@ -1,28 +1,28 @@
 {
-  "[markdown]": {
-    "editor.wordWrap": "on",
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
-  "[toml]": {
-    "editor.defaultFormatter": "Even Rouault.ExtensionPack-toml"
-  },
-  "python.linting.enabled": true,
-  "python.linting.pylintEnabled": true,
-  "python.formatting.provider": "black",
-  "files.exclude": {
-    "**/__pycache__": true,
-    "**/*.pyc": true,
-    ".venv": true,
-    ".cache": true,
-    "site": true
-  },
-  "search.exclude": {
-    ".venv": true,
-    ".cache": true,
-    "site": true
-  },
-  "editor.formatOnSave": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll": true
-  }
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[toml]": {
+        "editor.defaultFormatter": "Even Rouault.ExtensionPack-toml"
+    },
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "python.formatting.provider": "black",
+    "files.exclude": {
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        ".venv": true,
+        ".cache": true,
+        "site": true
+    },
+    "search.exclude": {
+        ".venv": true,
+        ".cache": true,
+        "site": true
+    },
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    }
 }
