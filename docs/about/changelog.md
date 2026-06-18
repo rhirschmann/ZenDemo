@@ -24,7 +24,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 ### Removed
 - Redundant `docs.yml` workflow
 
-## 0.1.0 — 2026-03-15
+## 0.1.0 — 2026-06-17
 
 ### Added
 - Initial Zensical demo setup
