@@ -25,7 +25,7 @@ Thanks for your interest in contributing! This document provides guidelines and 
 3. **Activate the virtual environment**
    - **Windows (PowerShell)**
      ```powershell
-     .venv\Scripts\Activate.ps1
+     .venv\\Scripts\\Activate.ps1
      ```
    - **macOS/Linux**
      ```bash
@@ -95,7 +95,7 @@ Add: Getting started guide for local development
 
 ## Code of Conduct
 
-This project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you're expected to uphold this code.
+This project adheres to a [Code of Conduct](CONTRIBUTING.md). By participating, you're expected to uphold this code.
 
 ## Questions or Issues?
 
