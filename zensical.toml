@@ -17,7 +17,7 @@ nav = [
 	{ "Features" = "features/index.md" },
 	{ "About" = [
 			{ "Overview" = "about/index.md" },
-			{ "Code of Conduct" = "about/CODE_OF_CONDUCT.md" },
+			{ "Code of Conduct" = "about/code-of-conduct.md" },
 			{ "Contributing to Zensical Demo" = "about/CONTRIBUTING.md" }
 		] },
 	{ "Changelog" = "about/changelog.md" }

@@ -94,7 +94,7 @@ Contributions are welcome! Please see [CONTRIBUTING.md](docs/contributing.md) fo
 
 - 💬 [Discussions](https://github.com/rhirschmann/ZenDemo/discussions)
 - 🐛 [Issues](https://github.com/rhirschmann/ZenDemo/issues)
-- 📝 [Code of Conduct](docs/code-of-conduct.md)
+- 📝 [Code of Conduct](code-of-conduct.md)
 
 ## Deployment
 
