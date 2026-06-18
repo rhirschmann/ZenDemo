@@ -9,8 +9,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 ### Added
 - Repository structure improvements aligned with best practices
 - `.vscode` configuration for consistent editor settings
-- `CONTRIBUTING.md` guide for contributors
-- `CODE_OF_CONDUCT.md` community standards
+- `contributing.md` guide for contributors
+- `code-of-conduct.md` community standards
 - `CHANGELOG.md` version history tracking
 - GitHub issue and PR templates
 - Enhanced `.gitignore` configuration

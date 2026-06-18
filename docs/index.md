@@ -46,7 +46,7 @@ Visit `http://127.0.0.1:8000` and start editing docs!
 ## 📚 Resources
 
 - [Project GitHub](https://github.com/rhirschmann/ZenDemo)
-- [Contributing Guide](about/CONTRIBUTING.md)
+- [Contributing Guide](about/contributing.md)
 - [Code of Conduct](about/code-of-conduct.md)
 - [Changelog](about/changelog.md)
 - [Zensical Official](https://zensical.org)
