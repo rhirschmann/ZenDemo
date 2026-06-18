@@ -11,12 +11,12 @@ variant = "classic"
 
 
 # Optional explicit navigation
-#nav = [
-#  { "Home" = "index.md" },
-#  { "Getting Started" = "getting-started.md" },
-#  { "Features" = "features.md" },
-#  { "Demo Components" = "components.md" }
-#]
+nav = [
+	{ "Home" = "index.md" },
+	{ "Getting Started" = "getting-started/index.md" },
+	{ "Features" = "features/index.md" },
+	{ "Component Showcase" = "features/components.md" }
+]
 
 [project.markdown]
 # Enable Markdown extensions
